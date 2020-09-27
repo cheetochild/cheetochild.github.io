@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179128753-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179128753-2');
+</script>
+
+<style>
+a.yellow:hover {
+    background-color: yellow;
+}
+
+a.white:hover {
+    background-color: white;
+}
+
+p#yellow:hover {
+    background-color: yellow;
+}
+
+h1.blue:hover {
+    background-color: blue;
+}
+
+h2.yellow:hover {
+    background-color: yellow;
+}
+
+li.yellow:hover {
+    background-color: yellow;
+}
+
+p#yell {
+    text: yellow;
+}
+
+p.small {
+    font-size: 16px;
+}
+
+p.big {
+    font-size: 40px;
+}
+
+a#small {
+    font-size: 16px;
+}
+
+p.smaller {
+    font-size: 10px;
+}
+</style>
+
+<head>
+<title>free images</title>
+</head>
+
+<body bgcolor="grey" text="black">
+
+<center>
+<h1 class="blue">free images</h1>
+<h1 class="blue">page 2</h1>
+</center>
+
+<hr/>
+
+<img title="image of norwegian fjords" src="img/norm6.jpg" width="200" height="121" border="1px #000" alt="image taken in norwegian fjords"/>
+
+<hr/>
+
+<a href="https://cheetochild.github.io/">page 1</a>
+
+<hr/>
+
+</body>
+
+</html>
